@@ -9,7 +9,7 @@ along with two images the passport images and the selfie
 "arg1.jpg"-the location of the image which contains the passport image
 "arg2.jpg"-the location of the image which contains the selfie image
 
-ensure haar.xml file and siamese_model are in the same folder as face.py file
+ensure that haar.xml file and siamese_model are in the same folder as face.py file
 
 command to run the code:
 1)python face.py "arg1.jpg" "arg2.jpg"
