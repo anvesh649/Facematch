@@ -1,13 +1,13 @@
-Ensure the installation of all the libraries mentioned below to run face.py
-1)pytorch-1.18
-2)opencv
-3)numpy
+Ensure the installation of all the libraries mentioned below to run face.py<br>
+1)pytorch-1.18<br>
+2)opencv<br>
+3)numpy<br>
 
 Steps to run face.py
 if you are using anaconda or windows terminal navigating to the folder which contains all the files in repository
-along with two images the passport images and the selfie
-"arg1.jpg"-the location of the image which contains the passport image
-"arg2.jpg"-the location of the image which contains the selfie image
+along with two images the passport images and the selfie<br>
+"arg1.jpg"-the location of the image which contains the passport image<br>
+"arg2.jpg"-the location of the image which contains the selfie image<br>
 
 ensure that haar.xml file and siamese_model are in the same folder as face.py file
 
