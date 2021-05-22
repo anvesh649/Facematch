@@ -15,7 +15,7 @@ command to run the code:
 1)python face.py "arg1.jpg" "arg2.jpg"
 
 if two images belong to the same person the console output prints that it's a match or if not it prints it as it's a no-match 
-along with the confidence score.
+along with the confidence score.<br>
 Updates-
 siamese-model1 improves test accuracy from 76 to 81 from siamese model1 
 new model uses a architecure similar to vgg
