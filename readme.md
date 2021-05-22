@@ -17,5 +17,5 @@ command to run the code:
 if two images belong to the same person the console output prints that it's a match or if not it prints it as it's a no-match 
 along with the confidence score.<br>
 Updates-
-siamese-model1 improves test accuracy from 76 to 81 from siamese_model
-new model uses a architecure similar to vgg
+siamese-model1 improves test accuracy from 76 to 81 from siamese_model<br>
+the new model uses a architecure similar to vgg
