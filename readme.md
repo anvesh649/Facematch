@@ -18,4 +18,4 @@ if two images belong to the same person the console output prints that it's a ma
 along with the confidence score.<br>
 Updates-
 siamese-model1 improves test accuracy from 76 to 81 from siamese_model<br>
-the new model uses a architecure similar to vgg
+the new model uses a architecure similar to first few layers of vgg
